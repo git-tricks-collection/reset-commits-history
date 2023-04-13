@@ -2,6 +2,7 @@
 Simple way to reset commits history in a repository (make a bkp before!)
 
 ---
+<br>
 
 Open folder of project/repo and...<br><br>
 
