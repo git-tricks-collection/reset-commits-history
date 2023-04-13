@@ -24,6 +24,7 @@ Open folder of project/repo and...<br><br>
     `git push -f origin main`
    
 <br>
+
 ---
 
 credits: [author: Kevin Bryniak](https://github.com/marsnebulasoup) → [stackoverflow discussion](https://stackoverflow.com/a/26000395)
